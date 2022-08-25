@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    height: 100vh;
+}
+
+.colors {
+    display: flex;
+    width: 20%;
+    border: 1px solid black;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn {
+    position: fixed;
+    top: 700px;
+    left: 47%;
+    cursor: pointer;
+}
