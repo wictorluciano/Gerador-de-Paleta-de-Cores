@@ -10,14 +10,30 @@
 .colors {
     display: flex;
     width: 20%;
-    border: 1px solid black;
     align-items: center;
     justify-content: center;
+}
+
+p {
+    padding: 1vw;
+    background-color: rgba(0, 0, 0, 0.1);
+    border-radius: 7%;
+    font: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: min(15px, 3vw);
+    color: white;
 }
 
 .btn {
     position: fixed;
     top: 700px;
-    left: 47%;
-    cursor: pointer;
+    left: 45%;
+    cursor: help;
+    padding: 1vw;
+    background-color: rgb(255, 255, 255, 0.6);
+    border-radius: 7%;
+    border: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: min(20px, 4vw);
+    color: rgb(83, 78, 78);
 }
