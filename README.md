@@ -3,4 +3,4 @@
 
 Visite o projeto: <a href="https://wictorluciano.github.io/Gerador-de-Paleta-de-Cores/" target="_blank">Clicando aqui</a> 
 
-<a href="https://wictorluciano.github.io/Gerador-de-Paleta-de-Cores/"><img src="img-readme" width="250px"></a>
+<a href="https://wictorluciano.github.io/Gerador-de-Paleta-de-Cores/"><img src="img-readme.png" width="250px"></a>
